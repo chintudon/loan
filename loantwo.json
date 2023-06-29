@@ -1,13 +1,13 @@
 {
-   "AdType": "facebook",
-  "Banner": "196862303338170_198100316547702",
-  "Interstitial": "196862303338170_198100579881009",
-  "NativeBanner": "196862303338170_198101613214239",
-  "Rewarded": "196862303338170_198102176547516",
-  "count": "4",
-  "buttton": "0",
-  "mc": "4506170",
-  "tn": "trans_JWqenp2rsP",
-  "upiID": "msmmavani@sbi",
-  "inr": "99"
+"AdType": "facebook",
+"Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"Interstitial": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+"NativeBanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"Rewarded": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"count": "4",
+"buttton": "1",
+"mc": "5526259",
+"tn": "trans_3Uov0SDD7p",
+"upiID": "msmmavani@sbi",
+"inr": "99"
 }
